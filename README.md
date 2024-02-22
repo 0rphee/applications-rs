@@ -1,5 +1,9 @@
 # apps-rs
 
+Code recovered from <https://crates.io/crates/applications>. The [original repository](https://github.com/HuakunShen/applications-rs/) is now removed.
+
+According to <https://crates.io>, the code originally had an MIT License, however, I was not able to find it.
+
 > This crate is used to read available desktop applications on different platforms.
 
 ## Platforms
